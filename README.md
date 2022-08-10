@@ -1,3 +1,4 @@
+ HEAD
 Hi:WQ
 
 # branching1
@@ -10,3 +11,9 @@ Hi:WQ
 
 
 ":6
+=======
+:q
+:q
+:q
+:q
+ main
